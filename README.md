@@ -1,4 +1,4 @@
-# Nodejs - Express | Swagger
+# ReactJs - TSX | React Query | Tailwindcss
 
 >Only practice purposes
 
